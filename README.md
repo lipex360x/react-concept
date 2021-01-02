@@ -1,6 +1,6 @@
 * Packages
 ```
-yarn add react react-dom babel-loader @babel/cli @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli
+yarn add react react-dom babel-loader @babel/cli @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli style-loader css-loader file-loader
 
 yarn add -D webpack-dev-server
 ```
